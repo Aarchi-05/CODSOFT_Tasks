@@ -329,17 +329,13 @@ Final Prediction System
 CODSOFT_Tasks/
 │── Movie_Genre_Classification/
 │   ├── Task1.ipynb
-│   ├── dataset/
-│   └── screenshots/
 │
 │── Credit_Card_Fraud_Detection/
 │   ├── Task2.ipynb
-│   ├── dataset/
 │   └── saved_model/
 │
 │── SMS_Spam_Detection/
 │   ├── Task3.ipynb
-│   ├── dataset/
 │   └── saved_model/
 │
 │── README.md
@@ -353,13 +349,13 @@ CODSOFT_Tasks/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Aarchi-05/your-repo-name.git
+git clone https://[github.com/Aarchi-05/CODSOFT_Tasks.git](https://github.com/Aarchi-05/CODSOFT_Tasks)
 ```
 
 Navigate to the project folder:
 
 ```bash
-cd your-repo-name
+cd CODSOFT_Tasks
 ```
 
 Install dependencies:
@@ -372,16 +368,6 @@ Launch Jupyter Notebook:
 
 ```bash
 jupyter notebook
-```
-
----
-
-# 📦 Required Dependencies
-
-Install manually:
-
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn nltk wordcloud
 ```
 
 ---
